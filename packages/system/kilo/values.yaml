@@ -5,5 +5,6 @@ kilo:
     repository: ghcr.io/cozystack/cozystack/kilo
   transitCIDR: 100.66.0.0/16
   meshGranularity: location
+  internalCIDR: ""
   cleanUpInterface: false
   mtu: auto
